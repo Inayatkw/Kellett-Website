@@ -1,0 +1,30 @@
+#img{
+
+width: 100%;
+height: 500px;
+border: none;
+
+}
+
+.traval_mainDiv
+{
+    border: 3px solid rgb(82, 64, 99) ;
+}
+
+.traval_mainDiv img 
+{
+    width: 100%;
+}
+
+.traval_mainDiv , .traval_mainDiv p
+{
+    margin: 20px;
+}
+
+
+body
+{
+text-align: center;
+background-color: rgb(163, 187, 247);
+
+}
